@@ -8,4 +8,4 @@
 - 💬 Ask me about WebPKI, Security, infrastructure and cloud services.
 - 📫 How to reach me: Twitter @japrachi, Email:prachi.jain1288@gmail.com
 - 😄 Pronouns: She/Her/Hers
-- ⚡ Fun fact: I can cook almost ~10 different cuisines :D 
+- ⚡ Fun fact: I can cook almost ~10 different cuisines :smiley:
