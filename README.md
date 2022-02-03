@@ -15,7 +15,9 @@
 - #WomenInTech Let's connect !!
 
 **Highlight of the week**
+
 :bellhop_bell: :bellhop_bell: :bellhop_bell: :bellhop_bell: :bellhop_bell: :bellhop_bell:
+
 This week I want to highlight a new book I am reading---- Atomic Habits by James Clear (NY times bestseller)
 What an amazing book !! Eye opening !! Truly motivational !!
 
