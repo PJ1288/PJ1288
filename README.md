@@ -21,5 +21,5 @@
 This week I want to highlight a new book I am reading---- Atomic Habits by James Clear (NY times bestseller)
 What an amazing book !! Eye opening !! Truly motivational !!
 
-Go get it here:
-https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1643857975&sr=8-1
+Go get it [here](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1643857975&sr=8-1)
+
