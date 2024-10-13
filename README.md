@@ -3,7 +3,7 @@
 <img src='https://avataaars.io/?avatarStyle=Circle&topType=LongHairStraightStrand&accessoriesType=Prescription01&hairColor=Black&facialHairType=Blank&clotheType=BlazerShirt&eyeType=Side&eyebrowType=DefaultNatural&mouthType=Default&skinColor=Light'
 />
 
-- 🔭 I’m currently a Staff Site Reliability Engineer with the Foundation Trust Services team @Fastly. Ex @Cisco(Cryptography) and @Allstate(DevOps)
+- 🔭 I’m currently a Principal Engineer with the Foundation Trust Services team @Fastly. Ex @Cisco(Cryptography) and @Allstate(DevOps)
 - 👯 I work on Certificate Authority, WebPKI and all things security.
 - 💬 Ask me about WebPKI, cryptography, secrets management, infrastructure security and cloud services.
 - I am actively involved in IETF(Internet Engineering Task Force). Currently c0-chairing KEYTRANS. Ex Co-chair@TIGRESS. Other WGs of interest include ACME, LAMPS, TLS.
