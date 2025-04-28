@@ -3,7 +3,7 @@
 <img src='https://avataaars.io/?avatarStyle=Circle&topType=LongHairStraightStrand&accessoriesType=Prescription01&hairColor=Black&facialHairType=Blank&clotheType=BlazerShirt&eyeType=Side&eyebrowType=DefaultNatural&mouthType=Default&skinColor=Light'
 />
 
-- 🔭 I’m currently a Principal Engineer with the Platform Engineering team @Fastly. Ex @Cisco(Cryptography) and @Allstate(DevOps)
+- 🔭 I’m currently a Senior SRE on Platform Security Team @ Netflix. Ex Principal Engineer with the Platform Engineering team @Fastly, @Cisco(Cryptography) and @Allstate(DevOps)
 - 👯 I work on Certification Authority, WebPKI and all things security.
 - 💬 Ask me about WebPKI, cryptography, secrets management, infrastructure security and cloud services.
 - I am actively involved in IETF(Internet Engineering Task Force). Currently co-chairing KEYTRANS. Ex Co-chair@TIGRESS. Other WGs of interest include ACME, LAMPS, TLS.
